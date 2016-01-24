@@ -1,2 +1,2 @@
 ﻿/*
-Copyright (c) 1997, 1998 Carnegie Mellon Univer
+Copyright (c) 1997, 1998 Carnegie Mellon Univers
