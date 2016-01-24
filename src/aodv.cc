@@ -1,2 +1,2 @@
 ﻿/*
-Copyright (c
+Copyright (c)
