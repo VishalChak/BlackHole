@@ -1,2 +1,2 @@
 ﻿/*
-Copyright
+Copyright 
