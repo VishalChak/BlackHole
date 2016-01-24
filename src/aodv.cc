@@ -4,4 +4,4 @@ Reserved.
 
 
 Redistribution and use in source and binary forms, with or without
-modification, are permit
+modification, are permitt
