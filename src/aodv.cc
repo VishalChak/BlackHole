@@ -1,2 +1,2 @@
 ﻿/*
-Copyright (c) 1997, 1998 Carnegie Mellon University.  All Ri
+Copyright (c) 1997, 1998 Carnegie Mellon University.  All Rig
