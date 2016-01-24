@@ -1,2 +1,2 @@
 ﻿/*
-Copyri
+Copyrig
