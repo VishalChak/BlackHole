@@ -1,2 +1,2 @@
 ﻿/*
-Copyright (c) 1997, 1998 Car
+Copyright (c) 1997, 1998 Carn
