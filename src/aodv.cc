@@ -1,2 +1,2 @@
 ﻿/*
-Copyright (c) 1997, 19
+Copyright (c) 1997, 199
