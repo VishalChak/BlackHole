@@ -1,2 +1,2 @@
 ﻿/*
-Copyright (c) 1997, 1998 Carne
+Copyright (c) 1997, 1998 Carneg
