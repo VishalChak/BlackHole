@@ -16,4 +16,4 @@ and/or other materials provided with the distribution.
 derived from this software without specific prior written permission.
 
 
-THIS SOFTWARE IS PROVIDED 
+THIS SOFTWARE IS PROVIDED B
