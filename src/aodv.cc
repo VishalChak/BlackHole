@@ -17,4 +17,4 @@ derived from this software without specific prior written permission.
 
 
 THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
-IMPLIED WARRANTIES, INCLUDING,
+IMPLIED WARRANTIES, INCLUDING, 
